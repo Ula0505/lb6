@@ -11,6 +11,6 @@ int main() {
 	Sum = firstNum + secondNum;
 	cout << "Cумма двух введенных чисел равна: " << Sum;
 	Min = firstNum - secondNum;
-	cout << "Разность введенныз чисел равна: " << Min;
+	cout << "Разность введенных чисел равна: " << Min;
 	return 0;
 }
